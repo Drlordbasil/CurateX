@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\Antho\temp.py", line 75, in <module>
+    curation_system.run()
+  File "C:\Users\Antho\temp.py", line 63, in run
+    self.gather_content()
+  File "C:\Users\Antho\temp.py", line 28, in gather_content
+    raise ValueError("No content found.")
+ValueError: No content found.
